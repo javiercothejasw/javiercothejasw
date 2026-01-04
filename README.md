@@ -13,12 +13,7 @@ algunos realizados en mi formacion academica y otros como parte de mi formacion 
 - Pensamiento logico y agilidad matematica.
 
 ### Contacto:
-e-mail:
-
-    javiercothejainfo@gmail.com
-Linkedin:
-
-    www.linkedin.com/in/javier-cotheja-lucana-a30336399
+e-mail: javiercothejainfo@gmail.com Linkedin: www.linkedin.com/in/javier-cotheja-lucana-a30336399
 
 
 <!--
