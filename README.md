@@ -1,4 +1,8 @@
-## Hi there 👋
+## ¡Hola! Soy Javier Cotheja👋  
+### Estudiante de Ingeniería en Informática
+Me entusiasma el Desarrollo de Software y la Gestion de Datos. 
+Me encuentro en constante formacion y aprendizaje, adquiriendo conocimientos sobre Lenguajes de Programacion y herramientas para la Organizacion y Visualizacion de datos.
+
 
 <!--
 **javiercothejasw/javiercothejasw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
