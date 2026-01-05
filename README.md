@@ -6,6 +6,8 @@ adquiriendo conocimientos sobre Lenguajes de Programacion y herramientas para la
 En la ventana de abajo encontraran anclado un repositorio "Portoflio" donde presento distintos proyectos y actividades,
 algunos realizados en mi formacion academica y otros como parte de mi formacion personal. Donde busco demostrar mis conocimientos y habilidades.
 
+Estare actualizando este Portfolio a medida que realice mejoras y complete nuevos Proyectos.
+
 ### Me destaco en:
 - Programacion Organizada y Eficiente.
 - Interpretacion y Analisis de estructuras de Datos.
